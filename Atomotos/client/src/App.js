@@ -17,7 +17,7 @@ function App() {
         <Router>
           {/* <Header/> */}
           {/* <Routes/> */}
-          <ReactNotifications />
+          {/* <ReactNotifications /> */}
           <Switch>
             <Route exact path = "/develop" component = {Black}/>
             <Route exact path = "/" component = {LandingPage}/>

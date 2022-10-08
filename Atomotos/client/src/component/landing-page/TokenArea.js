@@ -8,7 +8,8 @@ import Modal from "react-modal";
 import TimeAgo from 'javascript-time-ago';
 import en from "javascript-time-ago/locale/en.json";
 import "../css/style.css";
-TimeAgo.addDefaultLocale(en);
+// TimeAgo.addDefaultLocale(en);
+TimeAgo.addLocale(en)
 Modal.setAppElement("#root");
 
 
