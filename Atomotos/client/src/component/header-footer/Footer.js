@@ -28,7 +28,7 @@ export default function Footer() {
                   </form>
                   <ul>
                     
-                    <li>info@blocvault.io</li>
+                    <li>info@Atomotos.io</li>
                   </ul>
                 </div>
               </div>
@@ -39,7 +39,7 @@ export default function Footer() {
           
           
           <div className="footer-copyright">
-            <p> Copyright © 2021 BlocVault </p>
+            <p> Copyright © 2021 Atomotos </p>
           </div>
         </div>
         

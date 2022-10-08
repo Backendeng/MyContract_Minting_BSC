@@ -80,7 +80,7 @@ export default function HomeNavbar() {
                 </li>
                 {/* <li>
                   <a href="#how_work" className="scrolls">
-                    BVLT Pre Sale
+                    ATMO Pre Sale
                   </a>
                 </li> */}
    
@@ -119,9 +119,9 @@ export default function HomeNavbar() {
                 <div className="row">
                   <div className="col-lg-8 mx-auto">
                     <div className="banner-content">
-                      <h1 className="banner-title">Welcome to the BlocVault Ecosystem</h1>
+                      <h1 className="banner-title">Welcome to the Atomotos Ecosystem</h1>
                       <p>
-                        BlocVault is a decentralized BSC project that will use the BVLT token to reward
+                        Atomotos is a decentralized BSC project that will use the ATMO token to reward
                         investors and holders within our App and on our Platform. 
                       </p>
                       {/* <a href="#" className="btn btn-primary">
@@ -301,16 +301,16 @@ export default function HomeNavbar() {
                       <div className="blockcain-content">
                         <small className="xs-section-title">
                         </small>
-                        <h3 className="column-title">The BVLT Token</h3>
+                        <h3 className="column-title">The ATMO Token</h3>
                         <p>
-                          The BVLT token is a Binance smart chain (BSC) deflationary token.
+                          The ATMO token is a Binance smart chain (BSC) deflationary token.
                           Binance smart chain (BSC) was developed as a means of utilizing
                           solidity-based smart contracts with much greater speed and efficiency
                           than other, competing chains. With decentralized exchanges on BSC
                           offering lightning fast swaps and extremely low fees, BSC has started to
                           become one of the most widely used block-chains for decentralized
                           finance (Defi). BSC uses a token protocol developed by the Binance team
-                          called BEP-20. The BVLT tokens deflationary nature means that each time
+                          called BEP-20. The ATMO tokens deflationary nature means that each time
                           a transaction occurs using a deflationary token a percentage of the tokens
                           used in the transactions are destroyed permanently. This function is
                           constantly at work removing tokens from the total available supply. Over
@@ -438,7 +438,7 @@ export default function HomeNavbar() {
                           value={toSend.address}
                           onChange={handleChange}
                         /><br/>
-                        <div  className='preSaleTitle'>Please note:<br/> Your BVLT tokens will be airdropped to your wallet address after our Whitelisted Pre-sale ends</div>
+                        <div  className='preSaleTitle'>Please note:<br/> Your ATMO tokens will be airdropped to your wallet address after our Whitelisted Pre-sale ends</div>
                       </div>
 
                     <div className="btn-wrapper text-center">
@@ -457,8 +457,8 @@ export default function HomeNavbar() {
                       </li>
                       <li>
                         <strong> Pre-Sale Price</strong>
-                        <span>1375000000 BVLT presale per BNB</span><br/>
-                        <span>1237500000 BVLT Listing rate per BNB</span>
+                        <span>1375000000 ATMO presale per BNB</span><br/>
+                        <span>1237500000 ATMO Listing rate per BNB</span>
                       </li>
                       <li>
                         <strong> BNB - Limit Per Wallet</strong>
@@ -572,7 +572,7 @@ export default function HomeNavbar() {
                   <div className="col-lg-8 mx-auto">
                     <div className="section-title-item">
                       <small className="xs-section-title"></small>
-                      <h2 className="section-title">Blocvault Roadmap</h2>
+                      <h2 className="section-title">Atomotos Roadmap</h2>
                     </div>
                   </div>
                 </div>
@@ -611,8 +611,8 @@ export default function HomeNavbar() {
                           <b></b>
                           <h3>Dec 2021</h3>
                           <p> 
-                            Pre-Sale BVLT Token<br/> 
-                            Public Launch BVLT<br/>
+                            Pre-Sale ATMO Token<br/> 
+                            Public Launch ATMO<br/>
                             List on CMC & CG<br/>
                             (fast-tracked)<br/>
                             Trend on DEX & CMC<br/> 
@@ -628,7 +628,7 @@ export default function HomeNavbar() {
                           <h3>Jan-Feb 2022</h3>
                           <p> 
                             Continue to market<br/>
-                            BVLT Globally<br/>
+                            ATMO Globally<br/>
                             Ramp up Development<br/>
                             of our App<br/>
                             Second Audit By Certik<br/>
@@ -646,7 +646,7 @@ export default function HomeNavbar() {
                             Global App Marketing<br/>
                             Release Merch Store<br/>
                             Test App for Launch<br/>
-                            Release BVW Wallet<br/>
+                            Release ATMO Wallet<br/>
                             Listing on top 10<br/>
                             exchange
                           </p>

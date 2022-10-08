@@ -34,7 +34,7 @@ export default function TeamArea() {
                         <div className="row">
                           <div className="col-md-6 align-self-center">
                             <div className="xs-tabs-content">
-                              <h3 className="xs-single-title underline">The BlocVault App</h3>
+                              <h3 className="xs-single-title underline">The Atomotos App</h3>
                               <span className="release_vertion"> I Am Coming soon </span>
                               <ul className="download-logo">
                                 {/* <li>
@@ -73,7 +73,7 @@ export default function TeamArea() {
                           <div className="col-md-6">
                             <div className="xs-white-tabs-content">
                               <h3 className="xs-single-title">Download Whitepaper</h3>
-                              <p> Please download our whitepaper below Blocvault is a multi module application that will generate revenue and rewards for its community. Our aim is to change how we interact with our digital assets. </p>
+                              <p> Please download our whitepaper below Atomotos is a multi module application that will generate revenue and rewards for its community. Our aim is to change how we interact with our digital assets. </p>
                               <a href={process.env.PUBLIC_URL + '/assets/pdf/BV-FINAL.pdf'} className="btn btn-primary sm-btn" download>Download Now</a>
                             </div>
                           </div>

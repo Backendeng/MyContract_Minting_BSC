@@ -85,7 +85,7 @@ export default function Blog() {
                 <div className="single-social-list facebook">
                   <i className="fa fa-facebook"></i>
                   <h3 className="xs-title sm">Facebook</h3>
-                  <a href="https://www.facebook.com/profile.php?id=100073562438224">
+                  <a href="https://www.facebook.com/">
                     <span className="icon icon-arrow-right"></span>
                   </a>
                 </div>
@@ -95,7 +95,7 @@ export default function Blog() {
                 <div className="single-social-list twitter">
                   <i className="fa fa-twitter"></i>
                   <h3 className="xs-title sm">Twitter</h3>
-                  <a href="https://twitter.com/BlocVaultAPP">
+                  <a href="https://twitter.com/">
                     <span className="icon icon-arrow-right"></span>
                   </a>
                 </div>
@@ -105,7 +105,7 @@ export default function Blog() {
                 <div className="single-social-list slack">
                   <i className="fa fa-telegram"></i>
                   <h3 className="xs-title sm">Telegram</h3>
-                  <a href="https://t.me/joinchat/Y_8OpWZHxrQ3Njlk">
+                  <a href="https://t.me/joinchat/">
                     <span className="icon icon-arrow-right"></span>
                   </a>
                 </div>
@@ -115,7 +115,7 @@ export default function Blog() {
                 <div className="single-social-list bitcoin">
                   <i className="fa fa-reddit"></i>
                   <h3 className="xs-title sm">Reddit</h3>
-                  <a href="https://www.reddit.com/r/BlocVault/">
+                  <a href="https://www.reddit.com/">
                     <span className="icon icon-arrow-right"></span>
                   </a>
                 </div>
@@ -125,7 +125,7 @@ export default function Blog() {
                 <div className="single-social-list youtube">
                   <i className="fa fa-youtube-play"></i>
                   <h3 className="xs-title sm">Youtube</h3>
-                  <a href="https://www.youtube.com/watch?v=G5Hy4-ri6b4">
+                  <a href="https://www.youtube.com/">
                     <span className="icon icon-arrow-right"></span>
                   </a>
                 </div>
@@ -135,7 +135,7 @@ export default function Blog() {
                 <div className="single-social-list medium">
                   <img src="assets/images/icon/discord.png"/>
                   <h3 className="xs-title sm">Discord</h3>
-                  <a href="https://discord.gg/UtRuw6yv">
+                  <a href="https://discord.gg/">
                     <span className="icon icon-arrow-right"></span>
                   </a>
                 </div>

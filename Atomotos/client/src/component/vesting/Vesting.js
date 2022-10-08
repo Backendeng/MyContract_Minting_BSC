@@ -625,15 +625,15 @@ export default function Vesting() {
             </div>
             <div className="row vesting-section1">
               <div className=" col-lg-4 offset-lg-1 col-md-6 align-self-center" >
-                <h2 className="section-title wow fadeInUp"  data-wow-duration="2.5s"><i>Bloc Vest Rewards</i></h2>
+                <h2 className="section-title wow fadeInUp"  data-wow-duration="2.5s"><i>Atmo Vest Rewards</i></h2>
                 <img className="wow fadeInUp"   data-wow-duration="2s" src="assets/images/blockchain/blocvaultcoin.png"/>
                 <h4 className="section-footer wow fadeInUp"   data-wow-duration="3s"><i>Earn Passive income</i></h4>
               </div>
               <div className="content col-lg-5 offset-lg-1 col-md-6 align-self-center wow fadeInUp" data-wow-duration="2s">
-                <div className='content-title'><i>Blocvault vesting program</i></div>
+                <div className='content-title'><i>Atomotos vesting program</i></div>
                 <div className='content-body'><i>Earn rewards by simply holding our BVLT token in our specified wallets by selecting an options which best suits</i></div>
                 <div className='content-body'><i>There is no fee for vesting with us. To provide more liquidity in the vesting pool, we designed our taxation on buy and sell such that 1% of tax is moved to vesting pool automatically</i></div>
-                <div className='content-footer'><i>www.blocvault.io</i></div> 
+                <div className='content-footer'><i>www.Atomotos.io</i></div> 
               </div>
             </div>
             <div className="row vesting-section2">
@@ -647,7 +647,7 @@ export default function Vesting() {
               <div className="col-lg-4 offset-lg-1 col-md-6 wow fadeInUp mt-5" data-wow-duration="1.5s">
                 <div className="xs-count-down">
                   <div className="btn-wrapper text-center">
-                    <h4>BlocVest Option - A</h4>
+                    <h4>AtmoVest Option - A</h4>
                     <ul className='content'>
                       <li>- 90 Day Lock period</li>
                       <li>- 1 - BNB Minimum Vest</li>
@@ -664,7 +664,7 @@ export default function Vesting() {
               <div className="col-lg-4 offset-lg-2 col-md-6 wow fadeInUp mt-5" data-wow-duration="2s">
                 <div className="xs-count-down">
                   <div className="btn-wrapper text-center">
-                    <h4>BlocVest Option - B</h4>
+                    <h4>AtmoVest Option - B</h4>
                     <ul className='content'>
                       <li>- 180 Day Lock period</li>
                       <li>- 1 - BNB Minimum Vest</li>
@@ -681,7 +681,7 @@ export default function Vesting() {
               <div className="col-lg-4 offset-lg-1 col-md-6 wow fadeInUp mt-5" data-wow-duration="2.5s">
                 <div className="xs-count-down">
                   <div className="btn-wrapper text-center">
-                    <h4>BlocVest Option - C</h4>
+                    <h4>AtmoVest Option - C</h4>
                     <ul className='content'>
                       <li>- 270 Day Lock period</li>
                       <li>- 1 - BNB Minimum Vest</li>
@@ -698,7 +698,7 @@ export default function Vesting() {
               <div className="col-lg-4 offset-lg-2 col-md-6 wow fadeInUp mt-5" data-wow-duration="3s">
                 <div className="xs-count-down">
                   <div className="btn-wrapper text-center">
-                    <h4>BlocVest Option - D</h4>
+                    <h4>AtmoVest Option - D</h4>
                     <ul className='content'>
                       <li>- 360 Day Lock period</li>
                       <li>- 1 - BNB Minimum Vest</li>
