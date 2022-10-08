@@ -211,9 +211,9 @@ export default function Particles() {
                 <div className="row">
                   <div className="col-lg-8 mx-auto">
                     <div className="banner-content">
-                      <h1 className="banner-title">Welcome to the BlocVault Ecosystem</h1>
+                      <h1 className="banner-title">Welcome to the Atomotos Ecosystem</h1>
                       <p>
-                        BlocVault is a decentralized BSC project that will use the BVLT token to reward
+                        Atomotos is a decentralized BSC project that will use the BVLT token to reward
                         investors and holders within our App and on our Platform. 
                       </p>
                       <a href="#" className="btn btn-primary">

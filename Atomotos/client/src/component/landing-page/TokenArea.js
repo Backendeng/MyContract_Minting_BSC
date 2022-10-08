@@ -407,7 +407,7 @@ export default function TokenArea() {
                   <div className="col-lg-8 mx-auto">
                     <div className="section-title-item">
                       <small className="xs-section-title"></small>
-                      <h2 className="section-title">Blocvault Roadmap</h2>
+                      <h2 className="section-title">Atomotos Roadmap</h2>
                     </div>
                   </div>
                 </div>
@@ -481,7 +481,7 @@ export default function TokenArea() {
                             Global App Marketing<br/>
                             Release Merch Store<br/>
                             Test App for Launch<br/>
-                            Release BVW Wallet<br/>
+                            Release ATMO Wallet<br/>
                             Listing on top 10<br/>
                             exchange
                           </p>
