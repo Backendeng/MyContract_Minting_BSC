@@ -10,6 +10,9 @@ Create a smart contract, compile and deploy it using the Truffle Framework and a
 * Ganache-CLI
 * Truffle
 
+### website 
+http://atomotos.epizy.com
+
 ## Truffle Init
 1.	Set the Truffle and Ganache-cli
 
