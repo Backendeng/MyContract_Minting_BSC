@@ -34,6 +34,8 @@ $ truffle migrate
 * Set private and public time in solidity and website.
 * staking
 
+### Screen
 
+![image](https://user-images.githubusercontent.com/9028177/194763401-435860d4-bdca-4526-b623-a9e5e63c6bed.png)
 
 
